@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dyanncameron
 - 👀 I’m interested in ... web and software development
 - 🌱 I’m currently learning ... SQL, PHP and React
-- 💞️ I’m looking to collaborate on ... Frontend Development
+- 💞️ I’m looking to collaborate on ... Frontend and Backend Development
 - 📫 How to reach me ... dyanncameron@gmail.com
 
 <!---
